@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManuelFerreras
 - 👀 I’m interested in Blockchain Programming
 - 🌱 I’m currently learning Solidity & Web3
-- 💞️ I’m looking to collaborate on helping solidity newbies.
+- 💞️ I’m looking to collaborate on helping solidity peers.
 - 📫 How to reach me "manuel.ferreras1@gmail.com"
 
 <!---
