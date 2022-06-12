@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ManuelFerreras
-- 👀 I’m interested in Blockchain Programming
-- 🌱 I’m currently learning Solidity & Web3
+- 👋 Hi, I’m @ManuelFerreras.
+- 👀 I’m interested in Blockchain and Backend Programming.
+- 🌱 I’m currently learning Solidity, Web3 and Backend Frameworks for JavaScript.
+- 👀 I’m working for InMind Software as a web3 backend developer.
 - 💞️ I’m looking to collaborate on helping solidity peers.
 - 📫 How to reach me "manuel.ferreras1@gmail.com"
 
