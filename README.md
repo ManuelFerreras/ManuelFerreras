@@ -38,7 +38,6 @@ As a full-stack Web3 developer, my aim is to create innovative and user-friendly
 <br />
 
 #
-#
 
 ### 📊 Stats
 
