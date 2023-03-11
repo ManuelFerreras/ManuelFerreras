@@ -5,8 +5,6 @@
 As a full-stack Web3 developer, my aim is to create innovative and user-friendly solutions that make the decentralized web more accessible for individuals who are new to the space. I am committed to advancing the state of the art through cutting-edge development work and pushing the boundaries of what is possible with Web3 technologies. By contributing to the ongoing revolution of Web3, I am helping to shape the future of the internet and unlock new opportunities for people around the globe.
 
    <p align="left">
-      <a href="https://www.youtube.com/c/@numa9169?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrwOkw5pHDjD1UOfLsqZa9w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@numa9169">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrwOkw5pHDjD1UOfLsqZa9w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ManuelFerreras?tab=followers">
