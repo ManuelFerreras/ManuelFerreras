@@ -2,7 +2,7 @@
 
 **`Web3 Fullstack Developer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+As a full-stack Web3 developer, my aim is to create innovative and user-friendly solutions that make the decentralized web more accessible for individuals who are new to the space. I am committed to advancing the state of the art through cutting-edge development work and pushing the boundaries of what is possible with Web3 technologies. By contributing to the ongoing revolution of Web3, I am helping to shape the future of the internet and unlock new opportunities for people around the globe.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -38,20 +38,6 @@ I'm an indie full-stack developer and content creator building my version of the
 <br />
 
 #
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Tools EVERY Software Engineer Should Know](https://ytcards.demolab.com/?id=D4JkWoUovdo&title=Tools+EVERY+Software+Engineer+Should+Know&lang=en&timestamp=1678375804&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=960 "Tools EVERY Software Engineer Should Know")](https://www.youtube.com/watch?v=D4JkWoUovdo)
-[![Linux almost didn’t exist](https://ytcards.demolab.com/?id=ewr-IKmTiYE&title=Linux+almost+didn%E2%80%99t+exist&lang=en&timestamp=1678021223&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=48 "Linux almost didn’t exist")](https://www.youtube.com/watch?v=ewr-IKmTiYE)
-[![The Making of Linux: The World's First Open-Source Operating System](https://ytcards.demolab.com/?id=E0Q9KnYSVLc&title=The+Making+of+Linux%3A+The+World%27s+First+Open-Source+Operating+System&lang=en&timestamp=1677070808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=693 "The Making of Linux: The World's First Open-Source Operating System")](https://www.youtube.com/watch?v=E0Q9KnYSVLc)
-[![If you use ChatGPT to CHEAT, do this ONE THING!](https://ytcards.demolab.com/?id=Xffgj-RjOXw&title=If+you+use+ChatGPT+to+CHEAT%2C+do+this+ONE+THING%21&lang=en&timestamp=1676556019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=54 "If you use ChatGPT to CHEAT, do this ONE THING!")](https://www.youtube.com/watch?v=Xffgj-RjOXw)
-[![The ONLY Way to Get BETTER at CODING](https://ytcards.demolab.com/?id=Xj6lUopD8fA&title=The+ONLY+Way+to+Get+BETTER+at+CODING&lang=en&timestamp=1676302213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=36 "The ONLY Way to Get BETTER at CODING")](https://www.youtube.com/watch?v=Xj6lUopD8fA)
-[![Why Everyone's Obsessed with ChatGPT](https://ytcards.demolab.com/?id=PvWk3KzakBU&title=Why+Everyone%27s+Obsessed+with+ChatGPT&lang=en&timestamp=1676056500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=516 "Why Everyone's Obsessed with ChatGPT")](https://www.youtube.com/watch?v=PvWk3KzakBU)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
 #
 
 ### 📊 Stats
