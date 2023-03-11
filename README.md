@@ -38,11 +38,26 @@ As a full-stack Web3 developer, my aim is to create innovative and user-friendly
 
 #
 
-### 📊 Stats
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
-![Manuel Ferreras's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelferreras&show_icons=true&theme=gruvbox)
+<br/>
+<p align="left">
+  <a>
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=manuelferreras&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=manuelferreras&theme=radical&hide_border=true">		  
+  </a>
+</p>
+<br>
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- [![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=manuelferreras&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://www.manuelferreras.com/) -->
+
+<p align="center">
+  <a href="https://www.manuelferreras.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelferreras&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  </a>
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{manuelferreras}/count.svg"></p>
 
 #
 
