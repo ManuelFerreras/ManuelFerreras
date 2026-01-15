@@ -7,9 +7,9 @@ As a Web3 Backend Engineer, my aim is to create innovative and user-friendly sol
 Mainly working on EVM Architectures, with a security-first vision.
 
    <p align="left">
-      <a href="https://www.youtube.com/c/@numa9169?sub_confirmation=1">
+      <a href="https://www.youtube.com/@numaferre?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrwOkw5pHDjD1UOfLsqZa9w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@numa9169">
+      <a href="https://www.youtube.com/@numaferre">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrwOkw5pHDjD1UOfLsqZa9w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ManuelFerreras?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ManuelFerreras?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
