@@ -1,8 +1,10 @@
 # Manuel Ferreras
 
-**`Web3 Fullstack Developer`**
+**`Senior Web3 Backend Engineer`**
 
-As a full-stack Web3 developer, my aim is to create innovative and user-friendly solutions that make the decentralized web more accessible for individuals who are new to the space. I am committed to advancing the state of the art through cutting-edge development work and pushing the boundaries of what is possible with Web3 technologies. By contributing to the ongoing revolution of Web3, I am helping to shape the future of the internet and unlock new opportunities for people around the globe.
+As a Web3 Backend Engineer, my aim is to create innovative and user-friendly solutions that make the decentralized web more accessible for individuals who are new to the space. I am committed to advancing the state of the art through cutting-edge development work and pushing the boundaries of what is possible with Web3 technologies. By contributing to the ongoing revolution of Web3, I am helping to shape the future of the internet and unlock new opportunities for people around the globe.
+
+Mainly working on EVM Architectures, with a security-first vision.
 
    <p align="left">
       <a href="https://www.youtube.com/c/@numa9169?sub_confirmation=1">
