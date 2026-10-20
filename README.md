@@ -8,3 +8,9 @@ I am a technical founder. Before running Ringo I spent 4+ years shipping product
 
 joinringo.xyz
 
+## Background
+
+- Rust for 5 years, 3 of them in production (tokio, axum, serde, tracing).
+- TypeScript and Node.js, Solidity and the EVM, AWS.
+- National flag bearer (abanderado) of my secondary school class, for the highest academic average.
+- Winner at the regional round of the Olimpíada Matemática Argentina (OMA).
